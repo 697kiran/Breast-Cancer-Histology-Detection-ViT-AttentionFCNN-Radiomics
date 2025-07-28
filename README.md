@@ -88,10 +88,6 @@ We plan to expand this model's capabilities in the following areas:
   * **Generalizability Testing:** Evaluate the model's performance on other cancer datasets, such as lung or prostate cancer, to broaden its impact.
   * **Attention-based Interpretability:** Further illuminate the model's decision-making process to boost trust and utility in clinical settings.
 
-## Getting Started
-
-*(Instructions on how to set up the environment, install dependencies, and run the code would go here. For example:)*
-
 ### Prerequisites
 
   * Python 3.x
@@ -114,4 +110,4 @@ We welcome contributions\! Please feel free to open issues or submit pull reques
 
 ## License
 
-*(Specify your chosen license here, e.g., MIT, Apache 2.0, etc.)*
+* MIT, Apache 2.0, etc.
