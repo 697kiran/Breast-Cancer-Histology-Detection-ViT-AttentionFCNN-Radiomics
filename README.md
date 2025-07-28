@@ -1,0 +1,2 @@
+# Breast-Cancer-Histology-Detection-ViT-AttentionFCNN-Radiomics
+A cutting-edge automated system for breast cancer detection from histological images. This hybrid approach leverages radiomic features, Vision Transformers (ViTs), and an attention-based Fully Connected Neural Network (AttentionFCNN) for superior accuracy (99.57%) and efficiency on the BreakHis dataset. A powerful assistive tool for pathologists.
